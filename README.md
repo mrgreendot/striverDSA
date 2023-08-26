@@ -1,5 +1,7 @@
 # striverDSA
+[![MSS’s github stats](https://github-readme-stats.vercel.app/api?username=mrgreendot)](https://github.com/mrgreendot)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrgreendot&layout=compact)](https://github.com/mrgreendot)
 <p align="center">
     <a href="https://www.hackerrank.com/nathanabela7">
         <img alt="HackerRank Logo | Nathan Abela Profile" src="https://hrcdn.net/fcore/assets/brand/typemark_60x200-7435b42d20.svg" >
